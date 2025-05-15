@@ -1,0 +1,995 @@
+[
+  {
+    "type": "node",
+    "id": 267125534,
+    "lat": 57.7596962,
+    "lon": 12.05945,
+    "tags": {
+      "access": "yes",
+      "leisure": "playground"
+    }
+  },
+  {
+    "type": "node",
+    "id": 355158678,
+    "lat": 57.6815033,
+    "lon": 11.9865713,
+    "tags": {
+      "access": "yes",
+      "created_by": "osm2go v0.6.13-maemo1",
+      "leisure": "playground"
+    }
+  },
+  {
+    "type": "node",
+    "id": 413491138,
+    "lat": 57.7167508,
+    "lon": 11.9440671,
+    "tags": {
+      "access": "yes",
+      "leisure": "playground"
+    }
+  },
+  {
+    "type": "node",
+    "id": 440773513,
+    "lat": 57.7077782,
+    "lon": 12.0215603,
+    "tags": {
+      "access": "yes",
+      "leisure": "playground"
+    }
+  },
+  {
+    "type": "node",
+    "id": 452523444,
+    "lat": 57.6495059,
+    "lon": 12.0074127,
+    "tags": {
+      "leisure": "playground"
+    }
+  },
+  {
+    "type": "node",
+    "id": 862230153,
+    "lat": 57.6974453,
+    "lon": 11.9467578,
+    "tags": {
+      "access": "yes",
+      "leisure": "playground"
+    }
+  },
+  {
+    "type": "node",
+    "id": 907185103,
+    "lat": 57.7549618,
+    "lon": 11.9310956,
+    "tags": {
+      "access": "yes",
+      "leisure": "playground"
+    }
+  },
+  {
+    "type": "node",
+    "id": 942522991,
+    "lat": 57.6700643,
+    "lon": 11.9237219,
+    "tags": {
+      "access": "yes",
+      "leisure": "playground"
+    }
+  },
+  {
+    "type": "node",
+    "id": 942522993,
+    "lat": 57.6723705,
+    "lon": 11.9231808,
+    "tags": {
+      "access": "yes",
+      "leisure": "playground"
+    }
+  },
+  {
+    "type": "node",
+    "id": 942522994,
+    "lat": 57.670602,
+    "lon": 11.9246677,
+    "tags": {
+      "access": "yes",
+      "leisure": "playground"
+    }
+  },
+  {
+    "type": "node",
+    "id": 942522995,
+    "lat": 57.6715721,
+    "lon": 11.9246334,
+    "tags": {
+      "access": "yes",
+      "leisure": "playground"
+    }
+  },
+  {
+    "type": "node",
+    "id": 942524656,
+    "lat": 57.6665983,
+    "lon": 11.9117868,
+    "tags": {
+      "leisure": "playground"
+    }
+  },
+  {
+    "type": "node",
+    "id": 980406908,
+    "lat": 57.6309814,
+    "lon": 11.962715,
+    "tags": {
+      "leisure": "playground"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1171056751,
+    "lat": 57.7192689,
+    "lon": 11.937124,
+    "tags": {
+      "access": "yes",
+      "leisure": "playground"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1171057149,
+    "lat": 57.7182415,
+    "lon": 11.9369996,
+    "tags": {
+      "access": "yes",
+      "leisure": "playground"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1171057244,
+    "lat": 57.7177101,
+    "lon": 11.9370389,
+    "tags": {
+      "access": "yes",
+      "leisure": "playground"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1171057321,
+    "lat": 57.7187893,
+    "lon": 11.9370295,
+    "tags": {
+      "access": "yes",
+      "leisure": "playground"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1171100664,
+    "lat": 57.7300595,
+    "lon": 11.9097601,
+    "tags": {
+      "access": "yes",
+      "leisure": "playground"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1250034712,
+    "lat": 57.6818495,
+    "lon": 11.9542662,
+    "tags": {
+      "access": "yes",
+      "leisure": "playground"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1340070015,
+    "lat": 57.6810907,
+    "lon": 12.0140336,
+    "tags": {
+      "leisure": "playground"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1340070111,
+    "lat": 57.681046,
+    "lon": 12.0135515,
+    "tags": {
+      "leisure": "playground"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1445676675,
+    "lat": 57.745186,
+    "lon": 12.0526426,
+    "tags": {
+      "access": "yes",
+      "leisure": "playground"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1484596027,
+    "lat": 57.6911453,
+    "lon": 11.9594584,
+    "tags": {
+      "access": "yes",
+      "leisure": "playground"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1490336742,
+    "lat": 57.6520475,
+    "lon": 12.0379802,
+    "tags": {
+      "access": "yes",
+      "leisure": "playground"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1490336747,
+    "lat": 57.6508221,
+    "lon": 12.0359683,
+    "tags": {
+      "access": "yes",
+      "leisure": "playground"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1505397890,
+    "lat": 57.6531325,
+    "lon": 12.0377876,
+    "tags": {
+      "access": "yes",
+      "leisure": "playground"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1540779826,
+    "lat": 57.6708375,
+    "lon": 11.9287126,
+    "tags": {
+      "access": "yes",
+      "leisure": "playground"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1541147423,
+    "lat": 57.6592291,
+    "lon": 11.9241993,
+    "tags": {
+      "access": "yes",
+      "leisure": "playground"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1657934877,
+    "lat": 57.6948147,
+    "lon": 11.9979612,
+    "tags": {
+      "access": "yes",
+      "leisure": "playground",
+      "toilets:wheelchair": "no",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1657935036,
+    "lat": 57.6974561,
+    "lon": 11.9976094,
+    "tags": {
+      "access": "yes",
+      "leisure": "playground",
+      "wheelchair": "limited",
+      "wheelchair:description": "Brant backe med dåligt underhållen beläggning. Grus o sand som markbeläggning på lekplatsen"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1667706983,
+    "lat": 57.7055515,
+    "lon": 11.9222378,
+    "tags": {
+      "access": "yes",
+      "leisure": "playground",
+      "name": "Sörhallsbergets lekpark"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1763670958,
+    "lat": 57.7036433,
+    "lon": 11.921146,
+    "tags": {
+      "access": "yes",
+      "leisure": "playground"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1765606907,
+    "lat": 57.7006955,
+    "lon": 11.9107411,
+    "tags": {
+      "access": "yes",
+      "leisure": "playground"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1809420025,
+    "lat": 57.6806588,
+    "lon": 11.9909714,
+    "tags": {
+      "leisure": "playground"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1809420032,
+    "lat": 57.6817732,
+    "lon": 11.9861717,
+    "tags": {
+      "access": "yes",
+      "leisure": "playground"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1879180209,
+    "lat": 57.7214175,
+    "lon": 11.928253,
+    "tags": {
+      "access": "yes",
+      "leisure": "playground"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1880279165,
+    "lat": 57.708219,
+    "lon": 11.9363568,
+    "tags": {
+      "access": "yes",
+      "leisure": "playground"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1898433147,
+    "lat": 57.7103689,
+    "lon": 12.0014317,
+    "tags": {
+      "access": "yes",
+      "leisure": "playground"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1901145263,
+    "lat": 57.7183391,
+    "lon": 12.0280982,
+    "tags": {
+      "access": "yes",
+      "leisure": "playground",
+      "source": "Survey"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1904864130,
+    "lat": 57.7082952,
+    "lon": 11.9305821,
+    "tags": {
+      "access": "yes",
+      "leisure": "playground",
+      "source": "Bing"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2089227705,
+    "lat": 57.7206386,
+    "lon": 12.031526,
+    "tags": {
+      "access": "yes",
+      "leisure": "playground",
+      "source": "survey"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2089227720,
+    "lat": 57.721274,
+    "lon": 12.032116,
+    "tags": {
+      "access": "yes",
+      "leisure": "playground",
+      "source": "survey"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2717246789,
+    "lat": 57.6581357,
+    "lon": 12.062115,
+    "tags": {
+      "access": "yes",
+      "leisure": "playground"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2932705601,
+    "lat": 57.720262,
+    "lon": 11.94964,
+    "tags": {
+      "access": "customers",
+      "addr:city": "Göteborg",
+      "addr:country": "SE",
+      "addr:housenumber": "1",
+      "addr:postcode": "417 01",
+      "addr:street": "Herkulesgatan",
+      "contact:email": "goteborg@lekobus.se",
+      "contact:facebook": "https://www.facebook.com/Lek-Buslandet-221549041276207/",
+      "contact:phone": "+46 31-23 21 21",
+      "contact:website": "http://www.lekobus.se/",
+      "leisure": "playground",
+      "name": "Lek- & buslandet"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2967403174,
+    "lat": 57.7403218,
+    "lon": 12.0614536,
+    "tags": {
+      "leisure": "playground"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3179910010,
+    "lat": 57.7207255,
+    "lon": 12.0307483,
+    "tags": {
+      "access": "yes",
+      "leisure": "playground"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3721274006,
+    "lat": 57.6844492,
+    "lon": 11.9352396,
+    "tags": {
+      "access": "yes",
+      "leisure": "playground",
+      "name": "Azaleadalens naturlek"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3729505013,
+    "lat": 57.6827188,
+    "lon": 11.9756621,
+    "tags": {
+      "access": "yes",
+      "leisure": "playground"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3730512883,
+    "lat": 57.6798808,
+    "lon": 11.9279281,
+    "tags": {
+      "access": "yes",
+      "leisure": "playground"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4307334990,
+    "lat": 57.6884398,
+    "lon": 11.9646932,
+    "tags": {
+      "access": "yes",
+      "leisure": "playground"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4321925561,
+    "lat": 57.7004958,
+    "lon": 11.9090823,
+    "tags": {
+      "access": "yes",
+      "leisure": "playground"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4324856589,
+    "lat": 57.7009408,
+    "lon": 11.9156344,
+    "tags": {
+      "access": "yes",
+      "leisure": "playground"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4523492993,
+    "lat": 57.6586213,
+    "lon": 12.0238336,
+    "tags": {
+      "leisure": "playground"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4523492997,
+    "lat": 57.6591126,
+    "lon": 12.0230896,
+    "tags": {
+      "leisure": "playground"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4524872149,
+    "lat": 57.7449653,
+    "lon": 12.0355821,
+    "tags": {
+      "access": "yes",
+      "leisure": "playground"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4630831083,
+    "lat": 57.7173905,
+    "lon": 11.9496632,
+    "tags": {
+      "access": "yes",
+      "leisure": "playground"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4630831084,
+    "lat": 57.716508,
+    "lon": 11.9486038,
+    "tags": {
+      "access": "yes",
+      "leisure": "playground"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4637881135,
+    "lat": 57.7169823,
+    "lon": 12.0435609,
+    "tags": {
+      "access": "yes",
+      "leisure": "playground"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4711838915,
+    "lat": 57.6934119,
+    "lon": 11.944655,
+    "tags": {
+      "access": "yes",
+      "leisure": "playground"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4789690825,
+    "lat": 57.7069543,
+    "lon": 11.9750666,
+    "tags": {
+      "access": "yes",
+      "internet_access": "wlan",
+      "leisure": "playground",
+      "opening_hours": "Mo-Su 10:00-16:00"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4876801204,
+    "lat": 57.7474768,
+    "lon": 11.9128844,
+    "tags": {
+      "access": "yes",
+      "leisure": "playground",
+      "name": "Jättefågelholkarna"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5091181662,
+    "lat": 57.6891793,
+    "lon": 11.9299913,
+    "tags": {
+      "access": "yes",
+      "leisure": "playground"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5190014579,
+    "lat": 57.7043268,
+    "lon": 11.9595255,
+    "tags": {
+      "leisure": "playground"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5200539483,
+    "lat": 57.6902816,
+    "lon": 11.9922162,
+    "tags": {
+      "access": "yes",
+      "leisure": "playground"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5365801271,
+    "lat": 57.6891446,
+    "lon": 11.9861222,
+    "tags": {
+      "leisure": "playground"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5420248605,
+    "lat": 57.6703997,
+    "lon": 11.9305623,
+    "tags": {
+      "access": "yes",
+      "leisure": "playground"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5422982162,
+    "lat": 57.7115659,
+    "lon": 11.918469,
+    "tags": {
+      "access": "yes",
+      "leisure": "playground"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5586411349,
+    "lat": 57.6710796,
+    "lon": 11.9253685,
+    "tags": {
+      "leisure": "playground"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5765719557,
+    "lat": 57.626351,
+    "lon": 11.9261579,
+    "tags": {
+      "access": "yes",
+      "leisure": "playground",
+      "panoramax": "df768779-969b-45d4-9d33-f7533690f5b3"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5834832879,
+    "lat": 57.6332939,
+    "lon": 11.9342583,
+    "tags": {
+      "leisure": "playground"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5834832880,
+    "lat": 57.6335466,
+    "lon": 11.9337246,
+    "tags": {
+      "leisure": "playground"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5834839567,
+    "lat": 57.6341884,
+    "lon": 11.9376567,
+    "tags": {
+      "access": "yes",
+      "leisure": "playground"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5834839568,
+    "lat": 57.6344943,
+    "lon": 11.9371927,
+    "tags": {
+      "access": "yes",
+      "leisure": "playground"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5837275675,
+    "lat": 57.6785462,
+    "lon": 11.9018465,
+    "tags": {
+      "access": "yes",
+      "leisure": "playground"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5837282581,
+    "lat": 57.6676254,
+    "lon": 11.9173497,
+    "tags": {
+      "access": "yes",
+      "leisure": "playground"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5837743254,
+    "lat": 57.6365216,
+    "lon": 11.9195142,
+    "tags": {
+      "leisure": "playground"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5837759149,
+    "lat": 57.6464858,
+    "lon": 11.913828,
+    "tags": {
+      "leisure": "playground"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5837761333,
+    "lat": 57.6541448,
+    "lon": 11.9246131,
+    "tags": {
+      "access": "yes",
+      "leisure": "playground"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6102919305,
+    "lat": 57.7523369,
+    "lon": 12.0703697,
+    "tags": {
+      "access": "yes",
+      "leisure": "playground"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6104161523,
+    "lat": 57.6464478,
+    "lon": 11.9030845,
+    "tags": {
+      "access": "yes",
+      "leisure": "playground"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6371642362,
+    "lat": 57.6945539,
+    "lon": 11.9475149,
+    "tags": {
+      "access": "yes",
+      "leisure": "playground"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6371643684,
+    "lat": 57.6953639,
+    "lon": 11.9475985,
+    "tags": {
+      "access": "yes",
+      "leisure": "playground"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6610660253,
+    "lat": 57.7158724,
+    "lon": 11.9548684,
+    "tags": {
+      "leisure": "playground",
+      "name": "Berget"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6649588633,
+    "lat": 57.666959,
+    "lon": 12.0595054,
+    "tags": {
+      "leisure": "playground"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6757040945,
+    "lat": 57.7546725,
+    "lon": 12.0303293,
+    "tags": {
+      "access": "yes",
+      "leisure": "playground"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6757040946,
+    "lat": 57.7578621,
+    "lon": 12.0321731,
+    "tags": {
+      "access": "yes",
+      "leisure": "playground"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6757040947,
+    "lat": 57.7556808,
+    "lon": 12.024283,
+    "tags": {
+      "access": "yes",
+      "leisure": "playground"
+    }
+  },
+  {
+    "type": "node",
+    "id": 7601927484,
+    "lat": 57.6365846,
+    "lon": 11.9613467,
+    "tags": {
+      "leisure": "playground",
+      "name": "Kanonerna vid Sisjön"
+    }
+  },
+  {
+    "type": "node",
+    "id": 8279737978,
+    "lat": 57.7211184,
+    "lon": 12.0210625,
+    "tags": {
+      "access": "yes",
+      "leisure": "playground",
+      "name": "Lekplats Sofiagatan",
+      "playground:theme": "playground"
+    }
+  },
+  {
+    "type": "node",
+    "id": 8978965011,
+    "lat": 57.6570938,
+    "lon": 12.0096575,
+    "tags": {
+      "access": "yes",
+      "leisure": "playground"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10677088214,
+    "lat": 57.6538757,
+    "lon": 11.9111377,
+    "tags": {
+      "leisure": "playground"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10834318779,
+    "lat": 57.6593474,
+    "lon": 12.0282917,
+    "tags": {
+      "leisure": "playground"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10858786455,
+    "lat": 57.6983791,
+    "lon": 11.9721277,
+    "tags": {
+      "access": "yes",
+      "leisure": "playground"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10860178176,
+    "lat": 57.6620393,
+    "lon": 12.0022174,
+    "tags": {
+      "leisure": "playground"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10860178177,
+    "lat": 57.6616586,
+    "lon": 12.0011471,
+    "tags": {
+      "leisure": "playground"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10862748444,
+    "lat": 57.6604167,
+    "lon": 12.0031152,
+    "tags": {
+      "leisure": "playground"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11005625484,
+    "lat": 57.6163321,
+    "lon": 11.9010924,
+    "tags": {
+      "leisure": "playground"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11300829614,
+    "lat": 57.7236265,
+    "lon": 11.940727,
+    "tags": {
+      "access": "yes",
+      "leisure": "playground"
+    }
+  },
+  {
+    "type": "node",
+    "id": 12106074623,
+    "lat": 57.7074371,
+    "lon": 11.9630924,
+    "tags": {
+      "leisure": "playground"
+    }
+  }
+]
