@@ -1,0 +1,8 @@
+streamlit
+folium
+pandas
+streamlit_folium
+json
+geopy.distance 
+sklearn.cluster 
+os
